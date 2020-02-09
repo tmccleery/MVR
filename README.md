@@ -1,5 +1,3 @@
-Check out the short demonstration of MVR at:
-
-[MVR - Machine Vision Robot - Project Demo](https://drive.google.com/open?id=1KwTRbVr75Y_LDVz4eBwI3wfYji3s73Qo)
+The code for 2017 PHYS-124 project @ UCSD: MVR (machine vision robot). This robot would autonomously follow a ball of a trained color without direct human input. 
 
 
